@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -al
-ls -al /parent_dir
-ls -al /boot_dir
+ls -a . .. /boot
